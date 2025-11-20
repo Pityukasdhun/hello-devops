@@ -1,14 +1,5 @@
-# hello-devops
-Beadandó feladat DEVOPS tárgyból.
+# Hello DevOps
 
+![CI](https://github.com/Pityukasdhun/hello-devops/actions/workflows/docker-build.yml/badge.svg)
 
-# DevOps Hello World App (Python)
-
-Egyszerű Flask alapú webalkalmazás, amely a DevOps alaplépéseit mutatja be.
-
-## Build
-
-```bash
-pip install -r requirements.txt
-python app.py
-<!-- Trigger CI -->
+Automatikus frissítés: Thu Nov 20 19:22:50 UTC 2025
