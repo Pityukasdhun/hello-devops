@@ -2,4 +2,4 @@
 
 ![CI](https://github.com/Pityukasdhun/hello-devops/actions/workflows/docker-build.yml/badge.svg)
 
-Automatikus frissítés: Sun Nov 23 12:17:47 UTC 2025
+Automatikus frissítés: Mon Nov 24 12:21:35 UTC 2025
